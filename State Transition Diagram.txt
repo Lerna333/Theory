@@ -1,0 +1,1 @@
+State transition diagrams describe the logical transition of a system through various states of operation. Presented in a freeform layout, the state transition diagram represents states, the transitions that connect them, and the events that trigger transitions.
